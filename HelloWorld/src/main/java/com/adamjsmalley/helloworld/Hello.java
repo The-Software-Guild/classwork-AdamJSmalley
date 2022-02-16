@@ -12,5 +12,6 @@ package com.adamjsmalley.helloworld;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Adam Smalley");
+        System.out.println("My name is Adam");
     }
 }
